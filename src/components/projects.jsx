@@ -43,7 +43,7 @@ export default class Projects extends Component {
                       <p className="icon">
                         <span>
                           <a
-                            href="#https://www.amazon.com/MEC-Especifica%C3%A7%C3%A3o-Componentes-constru%C3%A7%C3%A3o-componentes/dp/3841722547"
+                            href="https://www.amazon.com/MEC-Especifica%C3%A7%C3%A3o-Componentes-constru%C3%A7%C3%A3o-componentes/dp/3841722547"
                             target="_blank"
                           >
                             <i className="icon-share3" />
