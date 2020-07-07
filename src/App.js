@@ -5,6 +5,8 @@ import Introduction from "./components/introduction";
 import About from "./components/about";
 import Timeline from "./components/timeline";
 import Projects from "./components/projects";
+import Hello from "./components/hello";
+import { useTranslation } from "react-i18next";
 
 class App extends Component {
   render() {
@@ -16,6 +18,7 @@ class App extends Component {
             <Introduction></Introduction>
             <About></About>
             <Projects></Projects>
+            <Hello />
             {/*<Timeline></Timeline>*/}
           </div>
         </div>
